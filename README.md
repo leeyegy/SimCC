@@ -832,6 +832,14 @@ python tools/test.py \
 ## Citations
 If you use our code or models in your research, please cite with:
 ```
+@misc{li20212d,
+      title={Is 2D Heatmap Representation Even Necessary for Human Pose Estimation?}, 
+      author={Yanjie Li and Sen Yang and Shoukui Zhang and Zhicheng Wang and Wankou Yang and Shu-Tao Xia and Erjin Zhou},
+      year={2021},
+      eprint={2107.03332},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 ## Acknowledgement
 Thanks for the open-source HRNet.
