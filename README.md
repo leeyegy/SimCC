@@ -14,7 +14,7 @@ The 2D heatmap representation has dominated human pose estimation for years due 
 
 We hope proposed SimDR will motivate the community to rethink the design of coordinate representation for 2D human pose estimation.
 
-For details see [Is 2D Heatmap Even Necessary for Human Pose Estimation]() by Yanjie Li, Sen Yang, Shoukui Zhang, Zhicheng Wang, Wankou Yang, Shu-Tao Xia, Erjin Zhou.
+For details see [Is 2D Heatmap Even Necessary for Human Pose Estimation](http://arxiv.org/abs/2107.03332) by Yanjie Li, Sen Yang, Shoukui Zhang, Zhicheng Wang, Wankou Yang, Shu-Tao Xia, Erjin Zhou.
 
 ![image](https://user-images.githubusercontent.com/35657511/123757223-55502b00-d8f0-11eb-8872-0072d7b61e91.png)
 
