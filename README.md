@@ -20,7 +20,7 @@ For details see [Is 2D Heatmap Even Necessary for Human Pose Estimation](http://
 
 
 ## News!
-The codes for SimDR and SimDR* (space-aware SimDR) are coming soon!
+- The codes for SimDR and SimDR* (space-aware SimDR) are released!
 
 ## Experiments
 ### Results on COCO test-dev set 
