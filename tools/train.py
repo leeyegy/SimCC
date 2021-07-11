@@ -28,7 +28,7 @@ from tensorboardX import SummaryWriter
 import _init_paths
 from config import cfg
 from config import update_config
-from core.loss import JointsMSELoss, L1JointLocationLoss, NMTCritierion, NMTNORMCritierion, KLDiscretLoss
+from core.loss import JointsMSELoss, NMTCritierion, NMTNORMCritierion, KLDiscretLoss
 from core.function import train_heatmap, train_simdr, train_sa_simdr
 from core.function import validate_heatmap, validate_simdr, validate_sa_simdr
 from utils.utils import get_optimizer
