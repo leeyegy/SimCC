@@ -148,15 +148,6 @@ class NMTCritierion(nn.Module):
             loss += self.criterion(coord_y_pred,coord_gt[:,1]).mul(weight).sum()
         return loss / batch_size
 
-class L1JointLocationLoss(nn.Module):
-    def __init__(self, size_average=True, reduce=True):
-        super(L1JointLocationLoss, self).__init__()
-        self.size_average = size_average
-        self.reduce = reduce
-
-    def forward(self, preds, target, target_weight):
-        return weighted_l1_loss(preds, target, target_weight, self.size_average)
-
 class JointsMSELoss(nn.Module):
     def __init__(self, use_target_weight):
         super(JointsMSELoss, self).__init__()
