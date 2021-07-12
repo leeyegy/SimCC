@@ -27,7 +27,7 @@ from core.inference import get_final_preds
 from utils.transforms import flip_back, flip_back_simdr
 from utils.transforms import transform_preds
 from utils.vis import save_debug_images
-from core.loss import JointsMSELoss, L1JointLocationLoss, NMTCritierion
+from core.loss import JointsMSELoss, NMTCritierion
 
 
 logger = logging.getLogger(__name__)
