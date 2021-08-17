@@ -20,6 +20,7 @@ For details see [Is 2D Heatmap Even Necessary for Human Pose Estimation](http://
 
 
 ## News!
+- [2021.08.17] The pretrained models are released in [Google Drive](https://drive.google.com/drive/folders/1HtIkWDpHasULk_MArlGLtyf-XRAyAsuP?usp=sharing)!
 - [2021.07.09] The codes for SimDR and SimDR* (space-aware SimDR) are released!
 
 ## Experiments
@@ -778,7 +779,7 @@ Results on the COCO validation set with the input size of 384×288.
 Please refer to [THIS](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) to prepare the environment step by step.
 
 ### 2. Model Zoo
-Pretrained models are provided in our [model zoo]().
+Pretrained models are provided in our [model zoo](https://drive.google.com/drive/folders/1HtIkWDpHasULk_MArlGLtyf-XRAyAsuP?usp=sharing).
 
 ### 3. Trainging
 #### Training on COCO train2017 dataset 
