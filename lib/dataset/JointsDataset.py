@@ -381,7 +381,7 @@ class JointsDataset(Dataset):
         # Check that any part of the gaussian is in-bounds
         ul = [int(mu_x - tmp_size), int(mu_y - tmp_size)]
         br = [int(mu_x + tmp_size + 1), int(mu_y + tmp_size + 1)]
-        if ul[0] >= (self.image_size[0]*self.simdr_split_ratio) or ul[1] >= self.image_size[1]*self.simdr_split_ratio \
+        if ul[0] >= (self.image_size[0]) or ul[1] >= self.image_size[1] \
                 or br[0] < 0 or br[1] < 0:
             # If not, just return the image as is
             target_weight = 0
