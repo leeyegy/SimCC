@@ -22,7 +22,7 @@ Perspective for Human Pose Estimation](http://arxiv.org/abs/2107.03332) by Yanji
 
 ## News!
 - [2022.07.17] Our paper ''SimCC: a Simple Coordinate Classification
-Perspective for Human Pose Estimation'' has been accpeted by **ECCV'2022** as **Oral** presentation (acceptance rate: 2.7\%). SimDR is the old name of this work, and we now use SimCC officially in our paper.
+Perspective for Human Pose Estimation'' has been accpeted by **ECCV'2022** as **Oral** presentation (acceptance rate: 2.7\%). **SimDR is the old name of this work, and we now use SimCC officially in our paper. For simplicity, we won't change the name in our codes, considering it has already been used by a lot of people**.
 - [2021.08.17] The pretrained models are released in [Google Drive](https://drive.google.com/drive/folders/1HtIkWDpHasULk_MArlGLtyf-XRAyAsuP?usp=sharing)!
 - [2021.07.09] The codes for SimDR and SimDR* (space-aware SimDR) are released!
 
