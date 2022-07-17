@@ -14,12 +14,16 @@ The 2D heatmap representation has dominated human pose estimation for years due 
 
 We hope proposed SimDR will motivate the community to rethink the design of coordinate representation for 2D human pose estimation.
 
-For details see [Is 2D Heatmap Even Necessary for Human Pose Estimation](http://arxiv.org/abs/2107.03332) by Yanjie Li, Sen Yang, Shoukui Zhang, Zhicheng Wang, Wankou Yang, Shu-Tao Xia, Erjin Zhou.
+For details see [SimCC: a Simple Coordinate Classification
+Perspective for Human Pose Estimation](http://arxiv.org/abs/2107.03332) by Yanjie Li, Sen Yang, Peidong Liu, Shoukui Zhang, Yunxiao Wang, Zhicheng Wang, Wankou Yang and Shu-Tao Xia.
 
-![image](https://user-images.githubusercontent.com/35657511/123757223-55502b00-d8f0-11eb-8872-0072d7b61e91.png)
+<img width="1183" alt="image" src="https://user-images.githubusercontent.com/35657511/179389055-28cb8380-b504-43f2-b53b-e6288a348e3f.png">
+
 
 
 ## News!
+- [2022.07.17] Our paper ''SimCC: a Simple Coordinate Classification
+Perspective for Human Pose Estimation`` has been officially accpeted by *ECCV'2022* as *Oral* presentation (acceptance rate: 2.7\%).
 - [2021.08.17] The pretrained models are released in [Google Drive](https://drive.google.com/drive/folders/1HtIkWDpHasULk_MArlGLtyf-XRAyAsuP?usp=sharing)!
 - [2021.07.09] The codes for SimDR and SimDR* (space-aware SimDR) are released!
 
